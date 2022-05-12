@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8QSTlXaYckBSL3gHSqOsoHktYBtErPN5OXBI/nSu1xfmEXq0pTPgOf+CO9Cfrh4BvIUrvDLkyK/e9UUaXvt5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\WebApplication0\\WebApplication0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
